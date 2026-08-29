@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:15 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "transfer-encoding": "chunked",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "x-content-type-options": "nosniff",
+      "content-language": "de",
+      "vary": "Accept-Encoding,Cookie",
+      "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "cache-control": "private, must-revalidate, max-age=0",
+      "x-request-id": "apKrVyV9P_eMVwDahvD0UgAAAd0",
+      "last-modified": "Mon, 20 Jul 2026 19:51:24 GMT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=M9h6w%2BW4rmz811znnpBiH%2FM24jdSvYu8VqwYRHHtUaQjn43NRCsiM6YmtxVYNnIgDOatfXcXcfJ5fukG0j9YrYWD1sO4yfAGAEOBSqm1pEhbyCIUnCtMmPzA%2BKT0pXjxdlrMuEQbfNfEqAnBGlD4eo0oUQ%3D%3D\"}]}",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-cache-status": "DYNAMIC",
+      "cf-ray": "a32aa6802eb61a65-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/Benutzer:Signalwerk",
+    "timestamp": "2026-08-29T09:50:15.157Z"
+  },
+  "hasData": true
+}

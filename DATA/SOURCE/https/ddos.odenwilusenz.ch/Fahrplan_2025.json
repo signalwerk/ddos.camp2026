@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:23 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "transfer-encoding": "chunked",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "x-content-type-options": "nosniff",
+      "content-language": "de",
+      "vary": "Accept-Encoding,Cookie",
+      "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "cache-control": "private, must-revalidate, max-age=0",
+      "x-request-id": "apKrXyV9P_eMVwDahvD0dgAAAfA",
+      "last-modified": "Sat, 14 Mar 2026 16:10:01 GMT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=pkkGzbs7Rm9QGkFxE8IIaEZFcLJGZcxjvGNwbR%2B2xKezdH3YFnvjELlfXfBhlA96enufL%2FyzGREeELSxRHn6pnBBhRNMdElQj1ktPvaTfxHLJ902om%2FfLxI32TJNOAhqBMblUYCg6eE%2BhId4Z%2Fu%2BjEuN1g%3D%3D\"}]}",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-cache-status": "DYNAMIC",
+      "cf-ray": "a32aa6b57b7d03af-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/Fahrplan_2025",
+    "timestamp": "2026-08-29T09:50:23.760Z"
+  },
+  "hasData": true
+}

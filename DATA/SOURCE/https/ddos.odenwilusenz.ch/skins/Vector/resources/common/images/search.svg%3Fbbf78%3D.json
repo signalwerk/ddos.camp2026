@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:17 GMT",
+      "content-type": "image/svg+xml",
+      "content-length": "223",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "last-modified": "Fri, 03 Mar 2023 22:01:17 GMT",
+      "etag": "\"118-5f60615ac0f78-gzip\"",
+      "accept-ranges": "bytes",
+      "vary": "Accept-Encoding",
+      "age": "2563",
+      "cache-control": "max-age=14400",
+      "cf-cache-status": "HIT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=E54MqkqybK4Mp%2FG2xW2fK%2By%2FAIyYGHwh4XBEJNrv7L5pFw02YJ3LuOLnVHBpSirs1sLK2da3NCHzSEezjAX6I%2Bmoj80P1TYlR7TOqA6askpSSSX78iKgSxOKo0Pofdw3TtlknANKjxVAwKATqYmJu7wTww%3D%3D\"}]}",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-ray": "a32aa691e87703af-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/skins/Vector/resources/common/images/search.svg?bbf78=",
+    "timestamp": "2026-08-29T09:50:17.845Z"
+  },
+  "hasData": true
+}

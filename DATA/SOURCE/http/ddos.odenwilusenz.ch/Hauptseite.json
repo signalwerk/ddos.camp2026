@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:13 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "transfer-encoding": "chunked",
+      "connection": "keep-alive",
+      "location": "https://ddos.odenwilusenz.ch/Hauptseite",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=l6etn68%2FuTAUBugrPQp4lBGHC6hah3R7E0e49%2FTYkJPubQhjOKYxy%2BuFYca%2FTNyx8TKCbZCCIe5m%2Bh%2FOnJHpOVTAGZcMRp4RJOCMOP6moUjX7Dcluwv98Pcz6UBNhbuc2Fn41HJrCXBcpZmXUqYyL0dycg%3D%3D\"}]}",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "server": "cloudflare",
+      "cf-ray": "a32aa6791da5b159-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 301,
+    "uri": "http://ddos.odenwilusenz.ch/Hauptseite",
+    "redirected": "https://ddos.odenwilusenz.ch/Hauptseite",
+    "timestamp": "2026-08-29T09:50:13.885Z"
+  },
+  "hasData": false
+}

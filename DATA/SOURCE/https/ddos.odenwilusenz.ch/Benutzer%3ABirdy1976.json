@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:15 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "transfer-encoding": "chunked",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "x-content-type-options": "nosniff",
+      "content-language": "de",
+      "vary": "Accept-Encoding,Cookie",
+      "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "cache-control": "private, must-revalidate, max-age=0",
+      "x-request-id": "apKrVyV9P_eMVwDahvD0VQAAAcA",
+      "last-modified": "Thu, 27 Aug 2026 19:58:11 GMT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=fMJKWuzzCTwCX9F3hcGA6z%2F3gcH0TpvJ6cyN3odQla7QcJO%2FNbio2A%2FXIz69ecZE7ZrZ%2BImrGIeWj%2F81khvQRKxWg0V9PH21dZ%2F%2B%2FklK%2FmoVgJtC1wYzYziWikp2E8bcwBUHKTkps3qRHRAqP3jZm3yeZA%3D%3D\"}]}",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-cache-status": "DYNAMIC",
+      "cf-ray": "a32aa6828fc303af-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/Benutzer:Birdy1976",
+    "timestamp": "2026-08-29T09:50:15.545Z"
+  },
+  "hasData": true
+}

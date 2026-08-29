@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:22 GMT",
+      "content-type": "image/jpeg",
+      "content-length": "242184",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "last-modified": "Sat, 01 Apr 2023 09:19:40 GMT",
+      "etag": "\"3b208-5f842d3521ced\"",
+      "accept-ranges": "bytes",
+      "age": "2563",
+      "cache-control": "max-age=14400",
+      "cf-cache-status": "HIT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=VecS%2BimK1w6w95P5%2Bhm2Bp6moTFpFCdRH3zEcVxRGkInL96m7O3E6lEHYf%2B%2Ftfw6tjphKH8rcoGH5ys7H1ioHRQqVRzpjtYivdTd%2BETAzxJu8HGeBc8wi6Fuij%2FfXqWq%2FLFZhq5UYJVM54hbGjcClq6exg%3D%3D\"}]}",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-ray": "a32aa6abe89a862a-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/images/thumb/3/3f/Odenwilusenz_Baumhaus_Nacht.jpg/1600px-Odenwilusenz_Baumhaus_Nacht.jpg?20230305222325=",
+    "timestamp": "2026-08-29T09:50:22.041Z"
+  },
+  "hasData": true
+}

@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:24 GMT",
+      "content-type": "image/svg+xml",
+      "content-length": "207",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "last-modified": "Fri, 03 Mar 2023 22:01:07 GMT",
+      "accept-ranges": "bytes",
+      "vary": "Accept-Encoding",
+      "age": "2563",
+      "cache-control": "max-age=14400",
+      "cf-cache-status": "HIT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Fi5OJ5MguQYw%2FsXxdiMv2m7sojf%2FfHCfCOoZ7YWhhHnHk9dLOzErAAbde32efG19RA0c4m1iBRWkvis5I5iLqf5RrthifzberuCRqAFZdTB02oNFXOscSbGPe1RQm7Rn84IFc9wKINyLru0wru9mRAmU%2FQ%3D%3D\"}]}",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-ray": "a32aa6b7fa6103af-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/resources/src/mediawiki.action/images/nextredirect-rtl.svg?67397=",
+    "timestamp": "2026-08-29T09:50:23.937Z"
+  },
+  "hasData": true
+}

@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:23 GMT",
+      "content-type": "image/png",
+      "content-length": "145085",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "last-modified": "Tue, 06 May 2025 00:43:18 GMT",
+      "etag": "\"236bd-6346ce71bce27\"",
+      "accept-ranges": "bytes",
+      "age": "2563",
+      "cache-control": "max-age=14400",
+      "cf-cache-status": "HIT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Gs8Z1ZQUlJBSQGX1XKp2tinKtXqD36NnY2DPJGFyltTExVHTudG3ZhQl5q9A8DNAaJ7wDSiFp%2BHjGNrK3QlKbv%2BYVBrr4MZGmUrNdZTjlkjNZjFFGj4Ky6sXBTQT7fWppvmyDqjwYUwrs7Ey3JPTtTfyuA%3D%3D\"}]}",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-ray": "a32aa6b4a8a11a65-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/images/thumb/f/ff/Workshop-cyanotypie-2025.png/424px-Workshop-cyanotypie-2025.png",
+    "timestamp": "2026-08-29T09:50:23.434Z"
+  },
+  "hasData": true
+}

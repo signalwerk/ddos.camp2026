@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:19 GMT",
+      "content-type": "image/png",
+      "content-length": "24371",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "last-modified": "Sun, 05 Mar 2023 21:13:31 GMT",
+      "etag": "\"5f33-5f62da682ab5c\"",
+      "accept-ranges": "bytes",
+      "age": "2562",
+      "cache-control": "max-age=14400",
+      "cf-cache-status": "HIT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=dRN5l7oKFontvrA8Zm1kfSe2Um0HJ8yYhqYwECBBABAxqiYj9jIoJFqIK%2B7x2ZUZgH7JmxWjcbL6i1hGAIcmzYKKiP7T2aAoBc8AcnmXiipjAdoJOJnkrbAtcdyKThHYqtgri2y0VTrSSY%2B%2B6i5XKPU58w%3D%3D\"}]}",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-ray": "a32aa6990807862a-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/images/thumb/b/ba/Karte.png/120px-Karte.png?20230305211330=",
+    "timestamp": "2026-08-29T09:50:18.996Z"
+  },
+  "hasData": true
+}

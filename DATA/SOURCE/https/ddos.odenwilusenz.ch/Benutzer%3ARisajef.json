@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:15 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "transfer-encoding": "chunked",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "x-content-type-options": "nosniff",
+      "content-language": "de",
+      "vary": "Accept-Encoding,Cookie",
+      "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "cache-control": "private, must-revalidate, max-age=0",
+      "x-request-id": "apKrVyV9P_eMVwDahvD0UwAAAd0",
+      "last-modified": "Wed, 29 Apr 2026 08:57:34 GMT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=cveql%2FfV%2B1y9gmQeDLeDDybk6aoPjMfDU7NMgxKQpcN9RmwdX956YHpOczHkq1MIQtnPGiZusWWMnMAEoJ48xz7hZ4PssiLuaZi%2FZK%2BmlQ4gpAnn3j0KPTCFiF5JMHBnYoq9qDu%2Foytg8kS%2BQZFMre7Y0w%3D%3D\"}]}",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-cache-status": "DYNAMIC",
+      "cf-ray": "a32aa6812bf703af-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/Benutzer:Risajef",
+    "timestamp": "2026-08-29T09:50:15.330Z"
+  },
+  "hasData": true
+}

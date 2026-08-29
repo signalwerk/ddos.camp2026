@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:14 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "transfer-encoding": "chunked",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "x-content-type-options": "nosniff",
+      "content-language": "de",
+      "vary": "Accept-Encoding,Cookie",
+      "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "cache-control": "private, must-revalidate, max-age=0",
+      "x-request-id": "apKrVgd3oUd5ArYR9VR1cwAAABU",
+      "last-modified": "Fri, 22 Aug 2025 20:13:43 GMT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=AfTUb7vdQsWKgfC5WBile2SDsYqSHhXAd1PbVqbjN%2FimUf4diBXQTUs%2BJJ1N3%2B6iakwFR9E9kUiMuQU5PMkXkMzBYasPghc9BSEBDGWJe7bllSKNtfp0vvzpiKBQrFYWZwwYnNwCUc1r8CQoYnvi4sErGw%3D%3D\"}]}",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-cache-status": "BYPASS",
+      "cf-ray": "a32aa67c9d45862a-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/Datei:Ddos_nacht.jpg",
+    "timestamp": "2026-08-29T09:50:14.877Z"
+  },
+  "hasData": true
+}

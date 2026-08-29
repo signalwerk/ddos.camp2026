@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:14 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "transfer-encoding": "chunked",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "x-content-type-options": "nosniff",
+      "content-language": "de",
+      "vary": "Accept-Encoding,Cookie",
+      "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "cache-control": "private, must-revalidate, max-age=0",
+      "x-request-id": "apKrVnrETjm7t7Uglpb4cgAAAY0",
+      "last-modified": "Fri, 28 Aug 2026 11:13:01 GMT",
+      "content-security-policy-report-only": "script-src 'unsafe-inline' 'unsafe-eval'; connect-src 'none'; report-uri https://csp-reporting.cloudflare.com/cdn-cgi/script_monitor/report?m=4yWNZEg3a4Kl9yk7oPG.PvWQaPVymyl3JcJz2vGOgkA-1787997014.2728758-1.0.1.1-jysRc.ZxnOasnfkwyXSvz9FHen_Ixm88LoYXsCCLM9xIq2BwX_sxKUl2YAC2Ji6ZD9abQDeUTdI2XdtZmcV4coToucEg4ugppH5H64BcoO8XzBqdz1VpHHeVVEFYyHwrPd2i2Cg2ZU4PNLxFtbhQ_l9mYIZ4SIP1aE0kUfhpqybIIoZ_aSqOUeXt0Rfw00LT; report-to cf-csp-endpoint",
+      "cf-cache-status": "DYNAMIC",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=fjG2EFlzfbOuUurzQkNN%2FbL5fkxn5JvbwpnjbMvLXvidEzPO%2FqHdxFwFUXuSxJF6NE%2BQqX2PZrf1WGCK3xlJ9n7Uy%2BtRLeeJ4f6AjHLkxZGWWRdOIYMc7H5eb0%2BQNdaklq4inak6otWPAWzUDuhwKMvxIg%3D%3D\"}]}, {\"group\":\"cf-csp-endpoint\",\"max_age\":86400,\"endpoints\":[{\"url\":\"https://csp-reporting.cloudflare.com/cdn-cgi/script_monitor/report?m=4yWNZEg3a4Kl9yk7oPG.PvWQaPVymyl3JcJz2vGOgkA-1787997014.2728758-1.0.1.1-jysRc.ZxnOasnfkwyXSvz9FHen_Ixm88LoYXsCCLM9xIq2BwX_sxKUl2YAC2Ji6ZD9abQDeUTdI2XdtZmcV4coToucEg4ugppH5H64BcoO8XzBqdz1VpHHeVVEFYyHwrPd2i2Cg2ZU4PNLxFtbhQ_l9mYIZ4SIP1aE0kUfhpqybIIoZ_aSqOUeXt0Rfw00LT\"}]}",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "reporting-endpoints": "cf-csp-endpoint=\"https://csp-reporting.cloudflare.com/cdn-cgi/script_monitor/report?m=4yWNZEg3a4Kl9yk7oPG.PvWQaPVymyl3JcJz2vGOgkA-1787997014.2728758-1.0.1.1-jysRc.ZxnOasnfkwyXSvz9FHen_Ixm88LoYXsCCLM9xIq2BwX_sxKUl2YAC2Ji6ZD9abQDeUTdI2XdtZmcV4coToucEg4ugppH5H64BcoO8XzBqdz1VpHHeVVEFYyHwrPd2i2Cg2ZU4PNLxFtbhQ_l9mYIZ4SIP1aE0kUfhpqybIIoZ_aSqOUeXt0Rfw00LT\"",
+      "cf-ray": "a32aa67b3ba903af-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/Teilnehmende_2026",
+    "timestamp": "2026-08-29T09:50:14.406Z"
+  },
+  "hasData": true
+}

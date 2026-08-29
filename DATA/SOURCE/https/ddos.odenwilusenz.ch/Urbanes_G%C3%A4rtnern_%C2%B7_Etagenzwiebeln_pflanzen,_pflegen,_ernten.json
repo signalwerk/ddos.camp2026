@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:15 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "transfer-encoding": "chunked",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "x-content-type-options": "nosniff",
+      "content-language": "de",
+      "vary": "Accept-Encoding,Cookie",
+      "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "cache-control": "private, must-revalidate, max-age=0",
+      "x-request-id": "apKrV3rETjm7t7Uglpb4egAAAY0",
+      "last-modified": "Thu, 27 Aug 2026 19:57:33 GMT",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-cache-status": "DYNAMIC",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=L1TH40mNAks5ODzMXya%2BOaW9FUgA%2F17COUNH1J4FDaipjs1WH7TIAbyZav0QnTIrQJOOYwmttEGqfik5ylankeYKN5psWWfnfhdrhiOFHyAp0v7UyD4%2FJRDnySto5HDl8zC58BuabMjfQfilcmIL2gWoJg%3D%3D\"}]}",
+      "cf-ray": "a32aa682feb6862a-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/Urbanes_G%C3%A4rtnern_%C2%B7_Etagenzwiebeln_pflanzen,_pflegen,_ernten",
+    "timestamp": "2026-08-29T09:50:15.593Z"
+  },
+  "hasData": true
+}

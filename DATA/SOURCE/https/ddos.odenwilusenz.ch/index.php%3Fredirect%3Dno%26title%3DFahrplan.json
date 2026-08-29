@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:23 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "transfer-encoding": "chunked",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "x-content-type-options": "nosniff",
+      "content-language": "de",
+      "vary": "Accept-Encoding,Cookie",
+      "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "cache-control": "private, must-revalidate, max-age=0",
+      "x-request-id": "apKrX3rETjm7t7Uglpb4mgAAAaI",
+      "set-cookie": "cpPosIndex=1%401787997023%2373b8d147df7f65dc0857f91157de261d; expires=Sat, 29 Aug 2026 09:50:33 GMT; Max-Age=10; path=/; secure; HttpOnly",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-cache-status": "DYNAMIC",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=X44CVXKXsQUSAvp3RBsM035XrMH%2BMKXYeXLhO90mIkVAzpoVFTn93EgrQ0RRj3Qt5YC%2FMejrt6PbM423p0gswIdyqlu94Y5K2X8QnU4M4dUw8E3lrlmfDuglEIVsR3RYelHH5D8RWSjDP1lYhSD1Vi%2FxAQ%3D%3D\"}]}",
+      "cf-ray": "a32aa6b4f9b01a65-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/index.php?redirect=no&title=Fahrplan",
+    "timestamp": "2026-08-29T09:50:23.648Z"
+  },
+  "hasData": true
+}

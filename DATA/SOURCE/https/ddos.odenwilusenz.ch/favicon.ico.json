@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:15 GMT",
+      "content-type": "image/x-icon",
+      "content-length": "0",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "last-modified": "Mon, 06 Mar 2023 15:48:19 GMT",
+      "etag": "\"0-5f63d39659f53\"",
+      "accept-ranges": "bytes",
+      "age": "98",
+      "cache-control": "max-age=14400",
+      "cf-cache-status": "HIT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=q9bIawIcdbPu7yLp8M6p71DrV8I4UxqQ6q3P5D04HBWb2qjAIo6SXPgacdU7MIU5qltgANn%2F8SpxoIxtUgTtgWDpEk45%2Bx6fImTZ4bECIMC1fs8NPvCw%2BO7wjL7Rt8USv999Vewfr3JKssw49KsT5bdEvw%3D%3D\"}]}",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-ray": "a32aa680092503af-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/favicon.ico",
+    "timestamp": "2026-08-29T09:50:14.988Z"
+  },
+  "hasData": true
+}

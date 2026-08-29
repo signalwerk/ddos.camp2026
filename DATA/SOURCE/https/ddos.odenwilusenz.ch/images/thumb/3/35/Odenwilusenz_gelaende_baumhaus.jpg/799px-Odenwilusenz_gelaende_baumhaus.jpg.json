@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:21 GMT",
+      "content-type": "image/jpeg",
+      "content-length": "59857",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "last-modified": "Sat, 01 Apr 2023 09:19:39 GMT",
+      "etag": "\"e9d1-5f842d3475e48\"",
+      "accept-ranges": "bytes",
+      "age": "2564",
+      "cache-control": "max-age=14400",
+      "cf-cache-status": "HIT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=xbpAV0xeWskOflJjATk1J1yiW0P69%2FtPhGztGfNwkcw37sEv%2BkAw4Fyqtx1TdQ%2FwYXwhAC1nGTsfyJ20XZW0tg4EXXpQ0VbTIh4OTTAoCRk4fADxHdvYmPH3RD7Gpm3p5iW0PIgCa%2F%2FtQXS3ku110c7y3A%3D%3D\"}]}",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-ray": "a32aa6a75aa61a65-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/images/thumb/3/35/Odenwilusenz_gelaende_baumhaus.jpg/799px-Odenwilusenz_gelaende_baumhaus.jpg",
+    "timestamp": "2026-08-29T09:50:21.303Z"
+  },
+  "hasData": true
+}

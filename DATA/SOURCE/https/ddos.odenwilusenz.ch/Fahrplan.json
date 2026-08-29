@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:23 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "transfer-encoding": "chunked",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "x-content-type-options": "nosniff",
+      "content-language": "de",
+      "vary": "Accept-Encoding,Cookie",
+      "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "cache-control": "private, must-revalidate, max-age=0",
+      "x-request-id": "apKrXiV9P_eMVwDahvD0cwAAAdM",
+      "last-modified": "Sat, 14 Mar 2026 16:10:01 GMT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=st3WOjiw8eDCwXZX6ivU2tI2gQz%2BTKAMH4M198nsvdzSbBXVkyPaickQiC1TiNngZh21Nt07AUAaJ0xHLzorysym%2FBefN0xGVAk8p6kp6PrcAfNrtcGTnJeRGXGsWrXT67NdS72XK5X%2BASHTjMlt8dyiFQ%3D%3D\"}]}",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-cache-status": "DYNAMIC",
+      "cf-ray": "a32aa6b0ad101a65-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/Fahrplan",
+    "timestamp": "2026-08-29T09:50:23.091Z"
+  },
+  "hasData": true
+}

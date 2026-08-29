@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:16 GMT",
+      "content-type": "image/jpeg",
+      "content-length": "36845",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "last-modified": "Mon, 06 Mar 2023 05:27:50 GMT",
+      "etag": "\"8fed-5f6348e529473\"",
+      "accept-ranges": "bytes",
+      "age": "2562",
+      "cache-control": "max-age=14400",
+      "cf-cache-status": "HIT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=tznE%2BMkjoRNtYZxMOe9cqM0Ts7G7crEG6g9PcLUrPr7BKaDZtkU5SbzeNR%2F79khgAtIof%2FAtz1jHuPHUR06iMfyonz315FYhGLi2Cx%2B4Tg%2FQJgdjAy1R3NY9EVjUu7QKeO%2F1uklpKEtJxkvQMe46CqYJ7A%3D%3D\"}]}",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-ray": "a32aa68bfba0862a-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/images/thumb/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg/600px-Odenwilusenz_gelaende_Wohnwagen.jpg",
+    "timestamp": "2026-08-29T09:50:16.919Z"
+  },
+  "hasData": true
+}

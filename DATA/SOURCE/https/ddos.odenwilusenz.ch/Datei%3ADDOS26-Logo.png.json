@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:14 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "transfer-encoding": "chunked",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "x-content-type-options": "nosniff",
+      "content-language": "de",
+      "vary": "Accept-Encoding,Cookie",
+      "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "cache-control": "private, must-revalidate, max-age=0",
+      "x-request-id": "apKrVgd3oUd5ArYR9VR1awAAADM",
+      "last-modified": "Mon, 20 Jul 2026 19:50:13 GMT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=2JOwOR0fzfcuPwsKWurYrAQIbKi5UFIxDsx9lknHaglgJNduUK%2FfuSh7kzSMDQnpzO3s1GhwYi7XfFBsP0u7EqP%2BuRmCWBJmlcsdVq%2Bk4wHas3wmlmzfB98VGhXMRHYR1a%2FOhg549YosXuSs%2BoOQfGSUDQ%3D%3D\"}]}",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-cache-status": "BYPASS",
+      "cf-ray": "a32aa67a7eba1a65-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/Datei:DDOS26-Logo.png",
+    "timestamp": "2026-08-29T09:50:14.293Z"
+  },
+  "hasData": true
+}

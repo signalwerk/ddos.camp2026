@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:18 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "transfer-encoding": "chunked",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "x-content-type-options": "nosniff",
+      "content-language": "de",
+      "vary": "Accept-Encoding,Cookie",
+      "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "cache-control": "private, must-revalidate, max-age=0",
+      "x-request-id": "apKrWiV9P_eMVwDahvD0YQAAAco",
+      "last-modified": "Fri, 22 Aug 2025 20:13:43 GMT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=zekf7laXnsrTB2DCa0uqGm4C%2BjFFHvzLba58CjtHWkRIPjAO9l7cNnkKV5qvDRzJOQa4Q%2F2ti0XU7%2FswY870UR4KczCGFgcztTyPVhPSL0GlzgkT4V2esiq8It5Oc2fOYB3Eju0p1Eos6R6OMOyx7KCFzA%3D%3D\"}]}",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-cache-status": "DYNAMIC",
+      "cf-ray": "a32aa692bac203af-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/Matrizendrucker",
+    "timestamp": "2026-08-29T09:50:18.230Z"
+  },
+  "hasData": true
+}

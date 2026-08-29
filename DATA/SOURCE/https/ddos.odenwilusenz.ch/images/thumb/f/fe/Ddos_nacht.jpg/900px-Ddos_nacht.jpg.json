@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:14 GMT",
+      "content-type": "image/jpeg",
+      "content-length": "40489",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "last-modified": "Tue, 14 Mar 2023 18:31:58 GMT",
+      "etag": "\"9e29-5f6e0715a0c01\"",
+      "accept-ranges": "bytes",
+      "age": "2562",
+      "cache-control": "max-age=14400",
+      "cf-cache-status": "HIT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=YiyHZgOPXRSPxHP2oS0yf%2BdRCa4pVQnui63FLoORXa21szprju55TnlGWsaCE5Q8RpmSlQKh39RXrXTYIy1Ii9hZT9MdTbDMRjUILubuQfgQT7gYqbo7HbTmkPQq%2BJaSUNKWOUHFNLvhQPPJ70h%2FAyKVDw%3D%3D\"}]}",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-ray": "a32aa67f5cca1a65-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/images/thumb/f/fe/Ddos_nacht.jpg/900px-Ddos_nacht.jpg",
+    "timestamp": "2026-08-29T09:50:14.889Z"
+  },
+  "hasData": true
+}

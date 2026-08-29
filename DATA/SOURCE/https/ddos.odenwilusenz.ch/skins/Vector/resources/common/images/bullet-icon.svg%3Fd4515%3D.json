@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:17 GMT",
+      "content-type": "image/svg+xml",
+      "content-length": "154",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "last-modified": "Fri, 03 Mar 2023 22:01:17 GMT",
+      "etag": "\"9f-5f60615abe0ba-gzip\"",
+      "accept-ranges": "bytes",
+      "vary": "Accept-Encoding",
+      "age": "2563",
+      "cache-control": "max-age=14400",
+      "cf-cache-status": "HIT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=aMPw6kx4SkARGGDwalMqHNklG4Fq320R4O%2BGyyZ2q1YVdsSeuz%2BvRezQCZUy87JCsZBo%2BlAgUk8rl%2FPaiXTYI5IOCV4Hamns%2FDAX2xdsvVmVR4Vc16HFzlhpAIN%2FQY6RO7SjyaDfhFNIT9MEhCHFuU%2Bmkw%3D%3D\"}]}, {\"group\":\"cf-csp-endpoint\",\"max_age\":86400,\"endpoints\":[{\"url\":\"https://csp-reporting.cloudflare.com/cdn-cgi/script_monitor/report?m=u2BkMK7m83dcOxTH2_3Cw.q5VAIBOrQBJApPCm5PKbM-1787997017.8732746-1.0.1.1-3nEx.MKL29AWuJa5GuwOxG5D8ZN8r2PwL35vtM3028TIa_Fd1f0Rs1mB08GeGUzjdrJnTH65Ft_9FnngyqAse7gQ_FiTD0QyFo9bSnxx2QRdP8UcuXuTgK2GXcCpK270Wloo17a3mQG8kaQvU3wweWgm2DmrPWz4Na3vtvpwzR7c1v95HiVJ1.pudzo5qQxU\"}]}",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "reporting-endpoints": "cf-csp-endpoint=\"https://csp-reporting.cloudflare.com/cdn-cgi/script_monitor/report?m=u2BkMK7m83dcOxTH2_3Cw.q5VAIBOrQBJApPCm5PKbM-1787997017.8732746-1.0.1.1-3nEx.MKL29AWuJa5GuwOxG5D8ZN8r2PwL35vtM3028TIa_Fd1f0Rs1mB08GeGUzjdrJnTH65Ft_9FnngyqAse7gQ_FiTD0QyFo9bSnxx2QRdP8UcuXuTgK2GXcCpK270Wloo17a3mQG8kaQvU3wweWgm2DmrPWz4Na3vtvpwzR7c1v95HiVJ1.pudzo5qQxU\"",
+      "content-security-policy-report-only": "script-src 'unsafe-inline' 'unsafe-eval'; connect-src 'none'; report-uri https://csp-reporting.cloudflare.com/cdn-cgi/script_monitor/report?m=u2BkMK7m83dcOxTH2_3Cw.q5VAIBOrQBJApPCm5PKbM-1787997017.8732746-1.0.1.1-3nEx.MKL29AWuJa5GuwOxG5D8ZN8r2PwL35vtM3028TIa_Fd1f0Rs1mB08GeGUzjdrJnTH65Ft_9FnngyqAse7gQ_FiTD0QyFo9bSnxx2QRdP8UcuXuTgK2GXcCpK270Wloo17a3mQG8kaQvU3wweWgm2DmrPWz4Na3vtvpwzR7c1v95HiVJ1.pudzo5qQxU; report-to cf-csp-endpoint",
+      "cf-ray": "a32aa691bbfd862a-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/skins/Vector/resources/common/images/bullet-icon.svg?d4515=",
+    "timestamp": "2026-08-29T09:50:17.824Z"
+  },
+  "hasData": true
+}

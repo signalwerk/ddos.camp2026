@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:13 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "transfer-encoding": "chunked",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "x-content-type-options": "nosniff",
+      "vary": "Accept-Encoding,Cookie",
+      "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "cache-control": "private, must-revalidate, max-age=0",
+      "x-request-id": "apKrVQd3oUd5ArYR9VR1ZgAAAD4",
+      "last-modified": "Sat, 29 Aug 2026 09:50:13 GMT",
+      "location": "http://ddos.odenwilusenz.ch/Hauptseite",
+      "cf-cache-status": "DYNAMIC",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=flYCaJaX6wWBpJbD2Gc6WW%2BbNzMvGSohLODO8ilW%2FAra%2BrDnHoWpXz7epHhMYF2cborGq%2FwCv%2Fn7DaJlEJxc81mkqz4KTirukBoon2m9w8VNbIjF%2FV4%2FxVu8kOwqmTMkzm6Fcew35ASDRcCbBVjwbcHt2A%3D%3D\"}]}",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-ray": "a32aa67879781a65-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 301,
+    "uri": "https://ddos.odenwilusenz.ch/",
+    "redirected": "http://ddos.odenwilusenz.ch/Hauptseite",
+    "timestamp": "2026-08-29T09:50:13.836Z"
+  },
+  "hasData": false
+}

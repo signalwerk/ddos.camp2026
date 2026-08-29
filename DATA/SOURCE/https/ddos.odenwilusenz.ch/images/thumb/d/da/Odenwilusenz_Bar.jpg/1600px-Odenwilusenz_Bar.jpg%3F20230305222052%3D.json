@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:21 GMT",
+      "content-type": "image/jpeg",
+      "content-length": "374922",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "last-modified": "Mon, 06 Mar 2023 15:55:26 GMT",
+      "etag": "\"5b88a-5f63d52cb0275\"",
+      "accept-ranges": "bytes",
+      "age": "2563",
+      "cache-control": "max-age=14400",
+      "cf-cache-status": "HIT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=aNQ29UBl%2FFzcoO9FhJBgzPBdsuEpBWK9iFw9QYQc19IS%2FabB40nUi838Km69izuAQuj920vwBx8o7wt3pIMkbawRhxXPuoxbMqpRk37kp7pW2Sfow8cDyddpvxdrndai%2FUN%2B1YDDg31MTQJXLaq%2B5Fi02w%3D%3D\"}]}",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-ray": "a32aa6a90ef81a65-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/images/thumb/d/da/Odenwilusenz_Bar.jpg/1600px-Odenwilusenz_Bar.jpg?20230305222052=",
+    "timestamp": "2026-08-29T09:50:21.694Z"
+  },
+  "hasData": true
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:17 GMT",
+      "content-type": "image/svg+xml",
+      "content-length": "412",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "last-modified": "Fri, 03 Mar 2023 22:01:17 GMT",
+      "etag": "\"2e1-5f60615ac55c8-gzip\"",
+      "accept-ranges": "bytes",
+      "vary": "Accept-Encoding",
+      "age": "2563",
+      "cache-control": "max-age=14400",
+      "cf-cache-status": "HIT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=rRjJeWZIZ0%2BfI7UBoY8BWjRZjsfBup2BCMBzuu24B%2FVIK77o78NGuMNeS4y5pSzRmZti56ZoMJHEr6czMJJ%2BnyxTKq9UkO8uLmJOolRjeJll7%2F%2B6o7ETr2QxSWtbx0I7dndCtGtS%2Bx3VE%2BEb20n8bOyCsA%3D%3D\"}]}",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-ray": "a32aa692296103af-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/skins/Vector/resources/common/images/unwatch-temp-icon-hl.svg?f3db6=",
+    "timestamp": "2026-08-29T09:50:17.910Z"
+  },
+  "hasData": true
+}

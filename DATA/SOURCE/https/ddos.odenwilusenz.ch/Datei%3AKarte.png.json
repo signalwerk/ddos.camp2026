@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:15 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "transfer-encoding": "chunked",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "x-content-type-options": "nosniff",
+      "content-language": "de",
+      "vary": "Accept-Encoding,Cookie",
+      "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "cache-control": "private, must-revalidate, max-age=0",
+      "x-request-id": "apKrV3rETjm7t7Uglpb4fAAAAY0",
+      "last-modified": "Fri, 22 Aug 2025 20:13:43 GMT",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-cache-status": "BYPASS",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=UNTfDAKhYoSnKIwreseSx5WxUV%2Bkq3sQhI8ls%2BvUGTTbKIK38%2FGwAtjIqsvR5R4l9Z7eTmLo08u6ocDLfakHgqGr2Ze9gBSfQubVQAJRwV8YjnE1%2FxO66BSFm5XO4UX93htdwijiEp%2BXumDW7hdro3g7Zw%3D%3D\"}]}",
+      "cf-ray": "a32aa6840a0d862a-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/Datei:Karte.png",
+    "timestamp": "2026-08-29T09:50:15.827Z"
+  },
+  "hasData": true
+}

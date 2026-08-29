@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:23 GMT",
+      "content-type": "text/css; charset=utf-8",
+      "transfer-encoding": "chunked",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "x-content-type-options": "nosniff",
+      "access-control-allow-origin": "*",
+      "cache-control": "public, max-age=300, s-maxage=300",
+      "expires": "Sat, 29 Aug 2026 09:55:23 GMT",
+      "link": "<https://media.ddos.odenwilusenz.ch/current-wiki-logo.png>;rel=preload;as=image",
+      "x-request-id": "apKrX3rETjm7t7Uglpb4nAAAAaI",
+      "etag": "W/\"1se39-gzip\"",
+      "vary": "Accept-Encoding",
+      "cf-cache-status": "DYNAMIC",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Q3%2FGC5cDgMoSSMMZeRyt3EMU6LM2DYEPwF8HCbFvzsxquAqoJDKT980UqagbSI3ZgmgOdQZwgDPJpwweTCLHuygmLUrb2GMDcBd1Md4MHEvSfh%2FQlQFIGhlyW1y3gomD1o2Cg%2BwYwkj7VignnzwrdLAIZQ%3D%3D\"}]}",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-ray": "a32aa6b66dbf1a65-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/load.php?lang=de&modules=mediawiki.action.view.redirectPage%7Cskins.vector.styles.legacy&only=styles&skin=vector",
+    "timestamp": "2026-08-29T09:50:23.804Z"
+  },
+  "hasData": true
+}

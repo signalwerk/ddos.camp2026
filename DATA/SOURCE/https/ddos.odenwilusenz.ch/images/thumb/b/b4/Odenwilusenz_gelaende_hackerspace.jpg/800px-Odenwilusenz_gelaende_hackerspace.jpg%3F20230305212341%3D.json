@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:19 GMT",
+      "content-type": "image/jpeg",
+      "content-length": "67442",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "last-modified": "Sun, 05 Mar 2023 21:35:05 GMT",
+      "etag": "\"10772-5f62df3a9e3c8\"",
+      "accept-ranges": "bytes",
+      "age": "2562",
+      "cache-control": "max-age=14400",
+      "cf-cache-status": "HIT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=3PrpEDIX4xxT%2F4HYT1rcdFesPRV3%2FyGi4QpQbzHKqXCi0ietBqQKOoJBfcYtshIuDUYGzt0ilLPzdrxgAnjyhoApKKcqWTSA%2FuVrJVk79dWsNH0NksMCugSf2eGMa2CwnFcSKqIfBhfD4rBbpWIgbJvzKw%3D%3D\"}]}",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-ray": "a32aa69b488d03af-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_hackerspace.jpg/800px-Odenwilusenz_gelaende_hackerspace.jpg?20230305212341=",
+    "timestamp": "2026-08-29T09:50:19.383Z"
+  },
+  "hasData": true
+}

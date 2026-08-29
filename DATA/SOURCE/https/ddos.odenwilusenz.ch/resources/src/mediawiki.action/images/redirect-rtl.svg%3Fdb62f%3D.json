@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:24 GMT",
+      "content-type": "image/svg+xml",
+      "content-length": "237",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "last-modified": "Fri, 03 Mar 2023 22:01:07 GMT",
+      "accept-ranges": "bytes",
+      "vary": "Accept-Encoding",
+      "age": "2563",
+      "cache-control": "max-age=14400",
+      "cf-cache-status": "HIT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=xDhsuwvvvcmuwKuwYxF9Iubp2nyuvCaEjnkAhF0L%2F0VPfHakPiYsnyOmJN4KTUj7lp72CQ9sA2Ri2I9eGRuy9pP4dXPz5O6upHUj0JI4r6%2FfLkD9WMUKn4FV1t5E5gGmHN%2B1GJit9u35EXP6NOjGoc8cwQ%3D%3D\"}]}",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-ray": "a32aa6b80a411a65-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/resources/src/mediawiki.action/images/redirect-rtl.svg?db62f=",
+    "timestamp": "2026-08-29T09:50:23.947Z"
+  },
+  "hasData": true
+}

@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:18 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "transfer-encoding": "chunked",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "x-content-type-options": "nosniff",
+      "content-language": "de",
+      "vary": "Accept-Encoding,Cookie",
+      "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "cache-control": "private, must-revalidate, max-age=0",
+      "x-request-id": "apKrWnrETjm7t7Uglpb4iwAAAbk",
+      "last-modified": "Sat, 14 Mar 2026 16:11:54 GMT",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-cache-status": "DYNAMIC",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=IvX1X7pah%2FXs1Zrlq7yCxRRU628ymG9aS%2B21FkITDGR0EGRlfRosrFCyDmE3tsqjCUkA9xtNt8m1ZttGN%2FjVxmLALMmyjIf5Wd1mXtMEjN8xYrHlgB%2Fw0I6YwYWOGZyoVueY58cgbUQ3mhL0VQ%2BlOnH9fQ%3D%3D\"}]}",
+      "cf-ray": "a32aa693e9c8862a-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/Workshop_Tiefdruck",
+    "timestamp": "2026-08-29T09:50:18.315Z"
+  },
+  "hasData": true
+}

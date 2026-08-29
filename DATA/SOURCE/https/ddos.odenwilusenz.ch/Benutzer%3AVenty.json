@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:15 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "transfer-encoding": "chunked",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "x-content-type-options": "nosniff",
+      "content-language": "de",
+      "vary": "Accept-Encoding,Cookie",
+      "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "cache-control": "private, must-revalidate, max-age=0",
+      "x-request-id": "apKrV3rETjm7t7Uglpb4eAAAAY0",
+      "last-modified": "Wed, 24 Jun 2026 16:43:45 GMT",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-cache-status": "DYNAMIC",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=qJYBUcez2aXlWN9a1sfUuqStFzK3X6euFCzHlLODQ6kUOEnmt8LLY5gM9WNryhz1dCR1wpG2%2Bs83D7NccWXjzrQcgerYhDtWDmumU7CIHL2T9svocuAyVbpYyo%2B7ircFpz1pt3G9yge6Z24ICcKUoD2Uwg%3D%3D\"}]}",
+      "cf-ray": "a32aa681fc42862a-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/Benutzer:Venty",
+    "timestamp": "2026-08-29T09:50:15.427Z"
+  },
+  "hasData": true
+}

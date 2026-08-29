@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:21 GMT",
+      "content-type": "image/jpeg",
+      "content-length": "197774",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "last-modified": "Mon, 06 Mar 2023 17:43:16 GMT",
+      "etag": "\"3048e-5f63ed4748eb8\"",
+      "accept-ranges": "bytes",
+      "age": "2563",
+      "cache-control": "max-age=14400",
+      "cf-cache-status": "HIT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Y7lww6EztA47LLzAtOJNVe4FgffQVKKoLJw9gun806ggGIUxTnQ9ryJDm6bPJvoreAxk7NEhGrPdahfbIDxKct9ofrpqpO6TFLibWgd2RZUj2zDHH2tZ3wIBNDH84qn7kRz0D8aTAk6Up7lhykCoudiXMw%3D%3D\"}]}",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-ray": "a32aa6aaedb5862a-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/images/thumb/0/0d/Odenwilusenz_Paletten.jpg/1600px-Odenwilusenz_Paletten.jpg?20230305222248=",
+    "timestamp": "2026-08-29T09:50:21.871Z"
+  },
+  "hasData": true
+}

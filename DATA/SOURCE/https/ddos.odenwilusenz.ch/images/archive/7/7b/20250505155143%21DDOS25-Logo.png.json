@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:23 GMT",
+      "content-type": "image/png",
+      "content-length": "244704",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "last-modified": "Mon, 05 May 2025 15:51:43 GMT",
+      "etag": "\"3bbe0-634657a03668b\"",
+      "accept-ranges": "bytes",
+      "age": "2563",
+      "cache-control": "max-age=14400",
+      "cf-cache-status": "HIT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=shJ9lpLb6g0KyfFsc5t6RzBEgBBf%2FKnytEH4cpM6tWkZlgS7DJ%2BLV7DuypMwyh85jfs3nWzjFipTsznF1M%2F93aXF2rAp1yRSIfjCD1w1ACWnJVZBWfZvT7vWB9oSxD4fRTkLxPMtWqBy%2BZtIX%2BtkZDAAXQ%3D%3D\"}]}",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-ray": "a32aa6b3cc59862a-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/images/archive/7/7b/20250505155143%21DDOS25-Logo.png",
+    "timestamp": "2026-08-29T09:50:23.303Z"
+  },
+  "hasData": true
+}

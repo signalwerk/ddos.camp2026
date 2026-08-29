@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:18 GMT",
+      "content-type": "image/svg+xml",
+      "content-length": "248",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "last-modified": "Fri, 03 Mar 2023 22:01:09 GMT",
+      "etag": "\"131-5f6061534a603-gzip\"",
+      "accept-ranges": "bytes",
+      "vary": "Accept-Encoding",
+      "age": "2562",
+      "cache-control": "max-age=14400",
+      "cf-cache-status": "HIT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=YdCfzb0pwhroUKlYL8TLKdBkOFq3fr8bGY8hvFSJB8yLU57ju36zulxjqugp5GjibIdgUtKwV6BwsmMvhgWWY1UC6TAZAwDKxsRJDkgZRs0wKmVsR4F6nrzQiXvJL4FOoRMQEOkQMzzS63dlYABopUmu4g%3D%3D\"}]}",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-ray": "a32aa6927a2f03af-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/resources/src/mediawiki.skinning/images/magnify-clip-rtl.svg?38fd5=",
+    "timestamp": "2026-08-29T09:50:17.947Z"
+  },
+  "hasData": true
+}

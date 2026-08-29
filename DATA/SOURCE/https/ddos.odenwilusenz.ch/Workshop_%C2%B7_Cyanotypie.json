@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:18 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "transfer-encoding": "chunked",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "x-content-type-options": "nosniff",
+      "content-language": "de",
+      "vary": "Accept-Encoding,Cookie",
+      "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "cache-control": "private, must-revalidate, max-age=0",
+      "x-request-id": "apKrWnrETjm7t7Uglpb4iAAAAb8",
+      "last-modified": "Sat, 14 Mar 2026 16:11:54 GMT",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-cache-status": "DYNAMIC",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=c37Q%2Bk8YqB35db9k%2BwFOw8Nwvp8n98ZLCYT%2FN7sykVJ%2FP3%2BOHjZ%2FHCvNPAQz6QT%2BRrcOWlYChMAKSMWabLEIr%2BATi0UN4C%2FGgernefLgPBFlBxoNF01q7qQ%2B98bosqzB8aZuFf6zfDmCRdWdlRo0NRtlCQ%3D%3D\"}]}",
+      "cf-ray": "a32aa6928e59862a-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/Workshop_%C2%B7_Cyanotypie",
+    "timestamp": "2026-08-29T09:50:18.137Z"
+  },
+  "hasData": true
+}

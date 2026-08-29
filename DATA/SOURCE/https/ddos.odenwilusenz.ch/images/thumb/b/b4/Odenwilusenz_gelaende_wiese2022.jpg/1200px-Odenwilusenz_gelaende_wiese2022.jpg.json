@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:17 GMT",
+      "content-type": "image/jpeg",
+      "content-length": "349039",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "last-modified": "Mon, 06 Mar 2023 05:42:57 GMT",
+      "etag": "\"5536f-5f634c464a9e4\"",
+      "accept-ranges": "bytes",
+      "age": "5330",
+      "cache-control": "max-age=14400",
+      "cf-cache-status": "HIT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=dEwElzT0%2B5AgLeMUOuGSZm3Z7qOUXCGDjQR5j%2BPIRDN9J%2FQPO2gm5hXiDj4r7SkA5qZrvOyizNQ73luSd9oGGMZL9ZamfUrn%2BeTHJvHImKIBR1xLbx8UVdAGDt9yjsCNngsvywrjZaNRdQbJYwMDWXltNw%3D%3D\"}]}",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-ray": "a32aa68da93d862a-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_wiese2022.jpg/1200px-Odenwilusenz_gelaende_wiese2022.jpg",
+    "timestamp": "2026-08-29T09:50:17.231Z"
+  },
+  "hasData": true
+}

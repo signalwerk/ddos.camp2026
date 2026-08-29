@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:16 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "transfer-encoding": "chunked",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "x-content-type-options": "nosniff",
+      "content-language": "de",
+      "vary": "Accept-Encoding,Cookie",
+      "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "cache-control": "private, must-revalidate, max-age=0",
+      "x-request-id": "apKrWHrETjm7t7Uglpb4gQAAAY0",
+      "last-modified": "Fri, 22 Aug 2025 20:13:43 GMT",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-cache-status": "BYPASS",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=5MyLkXjxb0yd1%2FEAnerIHddayeA7uJepfwjX7XMCPZlAQMA5BP%2FAaGUZVbIg8kChGen8Ucs9T%2FhxK7MknjGKqXXzlW4JQ5ENYan3gM8HHf2rwqSWF8sIFXg5bp7te0EorXNBJVNqy2YpNhCmjWzRKzBDGQ%3D%3D\"}]}",
+      "cf-ray": "a32aa6874b4f862a-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/Datei:Odenwilusenz_Paletten.jpg",
+    "timestamp": "2026-08-29T09:50:16.407Z"
+  },
+  "hasData": true
+}

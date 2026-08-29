@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 29 Aug 2026 09:50:18 GMT",
+      "content-type": "image/png",
+      "content-length": "148219",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "last-modified": "Mon, 05 May 2025 16:27:00 GMT",
+      "etag": "\"242fb-63465f8299211\"",
+      "accept-ranges": "bytes",
+      "age": "2562",
+      "cache-control": "max-age=14400",
+      "cf-cache-status": "HIT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=0%2BKBaIZCckLenvBN635DH70Tnwpa9IvhRTa3zbq9bthZUgd7OmFG8clyMgwhIjpMy9llFzEcLNCn9kmqk%2B0h3XTRq2lmuJxD8sGAMNOUn7mW3EhMjFDuj3VgpsWwjZNK3ewGtfD%2F6BsYau4qRSYsGSaxIw%3D%3D\"}]}",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-ray": "a32aa6971f1d1a65-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/images/thumb/f/f5/DDOS24-Logo.png/600px-DDOS24-Logo.png",
+    "timestamp": "2026-08-29T09:50:18.768Z"
+  },
+  "hasData": true
+}
