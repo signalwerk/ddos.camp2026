@@ -1327,7 +1327,7 @@ div.thumbinner {
   }
 }
 .mw-wiki-logo {
-  background-image: url(https://media.ddos.odenwilusenz.ch/current-wiki-logo.png);
+  background-image: url(current-wiki-logo.png);
 }
 @media print {
   table.floatright,

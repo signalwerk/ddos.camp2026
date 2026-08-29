@@ -26,6 +26,8 @@ import { DataPatcher } from "../packages/scrape-helpers/src/lib/DataPatcher.js";
 import { completeProcessing } from "../packages/scrape-helpers/src/lib/completeProcessing.js";
 import { removeCommentsIf } from "../packages/scrape-helpers/src/lib/removeCommentsIf.js";
 
+const domain = "ddos.odenwilusenz.ch";
+
 // HTML processors for different mime types
 const htmlProcessors = {
   "text/html": ($) => {
@@ -116,6 +118,13 @@ dataPatcher
     replace: "",
   });
 
+const dataPatcherWriter = new DataPatcher(dataPatcher);
+dataPatcherWriter.addRule({
+  includes: [/.*/],
+  search: "https://media.ddos.odenwilusenz.ch/current-wiki-logo.png",
+  replace: "current-wiki-logo.png",
+});
+
 // Create config function to avoid const issues
 function createConfig() {
   const processed = {
@@ -132,7 +141,7 @@ function createConfig() {
 
     start: [
       // to parse
-      { url: `https://ddos.odenwilusenz.ch/` },
+      { url: `https://${domain}/` },
     ],
 
     queues: {
@@ -145,7 +154,10 @@ function createConfig() {
           await validatePattern({
             value: context.parsedUrl.hostname,
             pattern: {
-              allowed: [/^ddos\.odenwilusenz\.ch$/i],
+              allowed: [
+                new RegExp(`^${domain.replaceAll(".", "\\.")}$`, "i"),
+                "media.ddos.odenwilusenz.ch",
+              ],
             },
             logger,
           });
@@ -182,7 +194,7 @@ function createConfig() {
 
       write: [
         writePrepareContent(),
-        writePatchText({ dataPatcher }),
+        writePatchText({ dataPatcher: dataPatcherWriter }),
         writeRewriteHtml({ htmlProcessors, rewriteUrl }),
         writeRewriteCss({ rewriteUrl }),
         writeFormatWithPrettier(),

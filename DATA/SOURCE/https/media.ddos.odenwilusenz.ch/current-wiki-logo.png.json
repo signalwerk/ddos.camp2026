@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "headers": {
+      "connection": "keep-alive",
+      "content-length": "88096",
+      "server": "GitHub.com",
+      "content-type": "image/png",
+      "last-modified": "Mon, 20 Jul 2026 19:47:06 GMT",
+      "access-control-allow-origin": "*",
+      "etag": "\"6a5e7b3a-15820\"",
+      "expires": "Sat, 29 Aug 2026 20:35:51 GMT",
+      "cache-control": "max-age=600",
+      "x-proxy-cache": "MISS",
+      "x-github-request-id": "41E0:250B21:213D7A3:2190A8D:6A93404F",
+      "x-github-edge-region": "fra",
+      "accept-ranges": "bytes",
+      "age": "282",
+      "date": "Sat, 29 Aug 2026 21:03:26 GMT",
+      "via": "1.1 varnish",
+      "x-served-by": "cache-vie6355-VIE",
+      "x-cache": "HIT",
+      "x-cache-hits": "0",
+      "x-timer": "S1788037407.984919,VS0,VE2",
+      "vary": "Accept-Encoding",
+      "x-fastly-request-id": "c925cdc69d0d687016a586bb20f9432c24d0eb8c"
+    },
+    "status": 200,
+    "uri": "https://media.ddos.odenwilusenz.ch/current-wiki-logo.png",
+    "timestamp": "2026-08-29T21:03:26.902Z"
+  },
+  "hasData": true
+}
