@@ -27,6 +27,7 @@ import { completeProcessing } from "../packages/scrape-helpers/src/lib/completeP
 import { removeCommentsIf } from "../packages/scrape-helpers/src/lib/removeCommentsIf.js";
 
 const domain = "ddos.odenwilusenz.ch";
+const allowed = ["media.ddos.odenwilusenz.ch"];
 
 // HTML processors for different mime types
 const htmlProcessors = {
@@ -118,6 +119,7 @@ dataPatcher
     replace: "",
   });
 
+// fix the logo for the wiki
 const dataPatcherWriter = new DataPatcher(dataPatcher);
 dataPatcherWriter.addRule({
   includes: [/.*/],
@@ -156,7 +158,7 @@ function createConfig() {
             pattern: {
               allowed: [
                 new RegExp(`^${domain.replaceAll(".", "\\.")}$`, "i"),
-                "media.ddos.odenwilusenz.ch",
+                ...allowed,
               ],
             },
             logger,
@@ -194,7 +196,7 @@ function createConfig() {
 
       write: [
         writePrepareContent(),
-        writePatchText({ dataPatcher: dataPatcherWriter }),
+        writePatchText({ dataPatcher }),
         writeRewriteHtml({ htmlProcessors, rewriteUrl }),
         writeRewriteCss({ rewriteUrl }),
         writeFormatWithPrettier(),
